@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{089E52D9-F54E-4710-BEEC-A347C0B999CE}|GAM106_Lab\\GAM106_Lab.csproj|e:\\fpt polytechnic\\gam106 - l\u1EADp tr\u00ECnh game back-end\\labs\\gam106_lab\\gam106_lab1\\gam106_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089E52D9-F54E-4710-BEEC-A347C0B999CE}|GAM106_Lab\\GAM106_Lab.csproj|solutionrelative:gam106_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Lab1\\GAM106_Lab\\Program.cs",
+              "RelativeDocumentMoniker": "GAM106_Lab\\Program.cs",
+              "ToolTip": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Lab1\\GAM106_Lab\\Program.cs",
+              "RelativeToolTip": "GAM106_Lab\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:49:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

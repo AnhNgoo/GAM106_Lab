@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GAM106_Lab.props" />
+</Project>
