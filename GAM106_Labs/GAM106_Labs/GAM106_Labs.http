@@ -1,0 +1,6 @@
+@GAM106_Labs_HostAddress = http://localhost:5011
+
+GET {{GAM106_Labs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

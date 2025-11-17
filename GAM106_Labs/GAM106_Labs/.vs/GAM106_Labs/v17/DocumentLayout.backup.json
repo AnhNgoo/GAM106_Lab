@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|e:\\fpt polytechnic\\gam106 - l\u1EADp tr\u00ECnh game back-end\\labs\\gam106_lab\\gam106_labs\\gam106_labs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GodPunish\\DownLoad\\GAM106_Lab\\Lab2\\Lab2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|e:\\fpt polytechnic\\gam106 - l\u1EADp tr\u00ECnh game back-end\\labs\\gam106_lab\\gam106_labs\\gam106_labs\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|solutionrelative:models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|e:\\fpt polytechnic\\gam106 - l\u1EADp tr\u00ECnh game back-end\\labs\\gam106_lab\\gam106_labs\\gam106_labs\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|e:\\fpt polytechnic\\gam106 - l\u1EADp tr\u00ECnh game back-end\\labs\\gam106_lab\\gam106_labs\\gam106_labs\\controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDF3C6B-DD7A-861F-D7D6-CACF8770C2A7}|GAM106_Labs.csproj|solutionrelative:controllers\\apigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GodPunish\\DownLoad\\GAM106_Lab\\Lab2\\Lab2\\Models\\LevelResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GodPunish\\DownLoad\\GAM106_Lab\\Lab2\\Lab2\\Program.cs",
+              "ToolTip": "D:\\GodPunish\\DownLoad\\GAM106_Lab\\Lab2\\Lab2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:30:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:30:07.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LevelResult.cs",
+              "DocumentMoniker": "D:\\GodPunish\\DownLoad\\GAM106_Lab\\Lab2\\Lab2\\Models\\LevelResult.cs",
+              "ToolTip": "D:\\GodPunish\\DownLoad\\GAM106_Lab\\Lab2\\Lab2\\Models\\LevelResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:27:49.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Models\\GameModel.cs",
+              "RelativeDocumentMoniker": "Models\\GameModel.cs",
+              "ToolTip": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Models\\GameModel.cs",
+              "RelativeToolTip": "Models\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:24:46.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIGameController.cs",
+              "DocumentMoniker": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Controllers\\APIGameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\APIGameController.cs",
+              "ToolTip": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Controllers\\APIGameController.cs",
+              "RelativeToolTip": "Controllers\\APIGameController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:23:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\FPT Polytechnic\\GAM106 - L\u1EADp tr\u00ECnh Game Back-End\\Labs\\GAM106_Lab\\GAM106_Labs\\GAM106_Labs\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T18:17:51.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
